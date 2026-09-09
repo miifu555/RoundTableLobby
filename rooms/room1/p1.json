@@ -4,6 +4,8 @@
     "matchId": "639245548936560000",
     "deckId": "suzuki",
     "seed": 6282772,
-    "actions": [],
-    "updatedAt": 639245548956640000
+    "actions": [
+        "P26"
+    ],
+    "updatedAt": 639245549193900000
 }
