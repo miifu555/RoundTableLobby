@@ -4,6 +4,8 @@
     "matchId": "639246318266910000",
     "deckId": "show",
     "seed": 681715728,
-    "actions": [],
-    "updatedAt": 639246318590840000
+    "actions": [
+        "X"
+    ],
+    "updatedAt": 639246318811570000
 }
