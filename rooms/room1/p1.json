@@ -4,6 +4,8 @@
     "matchId": "639247383326590000",
     "deckId": "zaki",
     "seed": 356088646,
-    "actions": [],
-    "updatedAt": 639247383376010000
+    "actions": [
+        "P28"
+    ],
+    "updatedAt": 639247384481190000
 }
