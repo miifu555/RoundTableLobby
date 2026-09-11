@@ -5,7 +5,8 @@
     "deckId": "toshi",
     "seed": 356088646,
     "actions": [
-        "P11"
+        "P11",
+        "P15"
     ],
-    "updatedAt": 639247383969710000
+    "updatedAt": 639247384047870000
 }
