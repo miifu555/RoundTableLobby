@@ -4,6 +4,8 @@
     "matchId": "639247382323210000",
     "deckId": "toshi",
     "seed": 128105405,
-    "actions": [],
-    "updatedAt": 639247382527770000
+    "actions": [
+        "X"
+    ],
+    "updatedAt": 639247382619000000
 }
